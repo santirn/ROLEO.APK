@@ -5,3 +5,5 @@ Esta aplicación permite obtener un personaje de ROL aleatorio de la base de dat
 
 Descargala [aquí](https://build.phonegap.com/apps/3497184/download/android/?qr_key=gB3vmergDBYSrR2sK6f5)
 
+![](https://github.com/santirn/ROLEO.APK/blob/master/1.jpg) ![](https://github.com/santirn/ROLEO.APK/blob/master/2.jpg)
+![](https://github.com/santirn/ROLEO.APK/blob/master/3.jpg) ![](https://github.com/santirn/ROLEO.APK/blob/master/4.jpg) ![](https://github.com/santirn/ROLEO.APK/blob/master/5.jpg) ![](https://github.com/santirn/ROLEO.APK/blob/master/6.jpg) ![](https://github.com/santirn/ROLEO.APK/blob/master/7.jpg) 
